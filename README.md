@@ -1,4 +1,4 @@
-# ML_Assignment
+# ML_Project
 Autonomous Computer Vision Based Human-Following Robot [Problem statement 19]
 
 # Doctor Detection and Human-Following Simulation with YOLOv8
