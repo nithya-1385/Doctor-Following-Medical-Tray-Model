@@ -208,5 +208,4 @@ We thank Unique Data(Owner) [Kaggle] for providing the dataset used in this proj
 For questions or issues, please open an issue on GitHub.
 
 ## Authors:
-Nithya Prashaanthi. R
-Neeraja Kumar
+Nithya Prashaanthi. R and Neeraja Kumar
